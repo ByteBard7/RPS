@@ -8,6 +8,10 @@
   font-family: "Roboto", sans-serif;
 }
 
+body {
+  background-color: rgb(124, 194, 255);
+}
+
 img {
   width: 100%;
   height: 100%;
@@ -15,7 +19,7 @@ img {
 
 h1 {
   font-size: 1.8rem;
-  margin: 5px 0;
+  margin: 8px 0;
 }
 
 h3 {
@@ -29,7 +33,7 @@ p {
   display: inline-block;
   padding: 10px;
   border-radius: 10px;
-  background-color: #f0f0f0;
+  background-color: #F0F0F0;
 }
 
 .choice-display {
@@ -52,5 +56,5 @@ button {
   border-radius: 20px;
   padding: 10px;
   font-size: 4rem;
-  margin: 20px 10px;
+  margin: 20px 10px 0 10px;
 }
